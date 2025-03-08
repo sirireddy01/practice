@@ -1,6 +1,6 @@
 package basicJava;
 
-public class Stringprogram2 {
+public class Stringprogramtwo {
 	//Count the Number of Words in a String
 		public static void main(String[]args) {
 			String s= "SIRI is  a girl";

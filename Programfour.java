@@ -2,7 +2,7 @@ package basicJava;
 
 import java.util.Scanner;
 
-public class program4 {
+public class Programfour {
 //Write a Java program to add two numbers. user has to input those two numbers
 	public static void main(String[] args) {
 		Scanner A= new Scanner(System.in);

@@ -2,7 +2,7 @@ package basicJava;
 
 import java.util.Scanner;
 
-public class program6 {
+public class Programsix {
 //Write a Java program to print the multiplication table of a number using a for loop.
 	public static void main (String[]args) {
 		Scanner s = new Scanner(System.in);

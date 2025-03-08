@@ -2,7 +2,7 @@ package basicJava;
 
 import java.util.Arrays;
 
-public class arrayprogram4 {
+public class Arrayprogramfour {
 //Write a Java program to find the second largest element in an array.
 	public static void main(String[]args) {
 		int i[]= {1,2,3,4,5};

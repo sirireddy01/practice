@@ -1,6 +1,6 @@
 package basicJava;
 
-public class arrayprogram1 {
+public class Arrayprogramone {
 //Write a Java program to find the largest element in a given array.
 	public static void main(String[]args) {
 		int i[]= {1,2,3,4,5};

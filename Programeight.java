@@ -2,7 +2,7 @@ package basicJava;
 
 import java.util.Scanner;
 
-public class program8 {
+public class Programeight {
 //Check if a number is prime using a for loop
 	public static void main(String[]args) {
 		Scanner s= new Scanner (System.in);
