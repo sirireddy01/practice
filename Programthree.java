@@ -2,7 +2,7 @@ package basicJava;
 
 import java.util.Scanner;
 
-public class program3 {
+public class Programthree {
 //Write a Java program to print numbers from 1 to N using a for loop
 	public static void main(String[] args) {
 		Scanner s= new Scanner(System.in);

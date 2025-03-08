@@ -1,6 +1,6 @@
 package basicJava;
 
-public class program5 {
+public class Programfive {
 //Print even numbers from 1 to 20 using a while loop
 	public static void main(String []args) {
 		int i=1;
