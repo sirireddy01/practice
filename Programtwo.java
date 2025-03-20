@@ -2,7 +2,7 @@ package basicJava;
 
 import java.util.Scanner;
 
-public class program2 {
+public class Programtwo {
 // Write a Java program to find the largest among three numbers using if-else statements
 	public static void main(String[] args) {
 		Scanner s1= new Scanner(System.in);
